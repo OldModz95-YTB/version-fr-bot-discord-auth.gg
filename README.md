@@ -2,6 +2,9 @@
 <h1>Bot Discord Auth.gg Version Française</h1>
 <br>
 <br>
+Discord: https://discord.gg/3t2568W
+<br>
+<br>
 Bot discord qui te permet de gérer tes application Auth.gg
 <br>
 Vidéo:https://youtu.be/0PGvRXyKg5A
