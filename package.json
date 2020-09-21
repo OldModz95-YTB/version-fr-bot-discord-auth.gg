@@ -1,0 +1,16 @@
+{
+  "name": "oldmodz95",
+  "version": "1.0",
+  "description": "OldModz95 Auth",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "OldModz95",
+  "license": "GPL-3.0",
+  "dependencies": {
+    "discord.js": "^12.18.2",
+    "fs": "0.0.1-security",
+    "moment": "^2.24.0"
+  }
+}
